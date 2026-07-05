@@ -137,7 +137,7 @@
             "maps_link": null,
             "denkmalschutzstatus": null,
             "literatur": [],
-            "thumbnail": "/images/dummy-001-gollenstein.jpg"
+            "thumbnail": "images/dummy-001-gollenstein.jpg"
         },
         {
             "id": "dummy-002-spellenstein",
@@ -156,7 +156,7 @@
             "maps_link": null,
             "denkmalschutzstatus": null,
             "literatur": [],
-            "thumbnail": "/images/dummy-002-spellenstein.jpg"
+            "thumbnail": "images/dummy-002-spellenstein.jpg"
         },
         {
             "id": "dummy-003-museum-vor-fruehgeschichte",
@@ -175,7 +175,7 @@
             "maps_link": null,
             "denkmalschutzstatus": null,
             "literatur": [],
-            "thumbnail": null
+            "thumbnail": "images/dummy-003-museum-vor-fruehgeschichte.jpg"
         },
         {
             "id": "dummy-004-hunnenring",
@@ -194,7 +194,7 @@
             "maps_link": null,
             "denkmalschutzstatus": null,
             "literatur": [],
-            "thumbnail": "/images/dummy-004-hunnenring.jpg"
+            "thumbnail": "images/dummy-004-hunnenring.jpg"
         },
         {
             "id": "dummy-005-kulturpark-bliesbruck-reinheim",
@@ -213,7 +213,7 @@
             "maps_link": null,
             "denkmalschutzstatus": null,
             "literatur": [],
-            "thumbnail": "/images/dummy-005-kulturpark-bliesbruck-reinheim.jpg"
+            "thumbnail": "images/dummy-005-kulturpark-bliesbruck-reinheim.jpg"
         },
         {
             "id": "dummy-006-villa-borg",
@@ -232,7 +232,7 @@
             "maps_link": null,
             "denkmalschutzstatus": null,
             "literatur": [],
-            "thumbnail": "/images/dummy-006-villa-borg.jpg"
+            "thumbnail": "images/dummy-006-villa-borg.jpg"
         },
         {
             "id": "dummy-007-villa-nennig",
@@ -251,7 +251,7 @@
             "maps_link": null,
             "denkmalschutzstatus": null,
             "literatur": [],
-            "thumbnail": "/images/dummy-007-villa-nennig.jpg"
+            "thumbnail": "images/dummy-007-villa-nennig.jpg"
         },
         {
             "id": "dummy-008-roemermuseum-schwarzenacker",
@@ -270,7 +270,7 @@
             "maps_link": null,
             "denkmalschutzstatus": null,
             "literatur": [],
-            "thumbnail": "/images/dummy-008-roemermuseum-schwarzenacker.jpg"
+            "thumbnail": "images/dummy-008-roemermuseum-schwarzenacker.jpg"
         },
         {
             "id": "dummy-009-sudelfels",
@@ -308,7 +308,7 @@
             "maps_link": null,
             "denkmalschutzstatus": null,
             "literatur": [],
-            "thumbnail": "/images/dummy-010-emilianus-stollen.jpg"
+            "thumbnail": "images/dummy-010-emilianus-stollen.jpg"
         },
         {
             "id": "dummy-011-mithras-heiligtum",
@@ -327,7 +327,7 @@
             "maps_link": null,
             "denkmalschutzstatus": null,
             "literatur": [],
-            "thumbnail": null
+            "thumbnail": "images/dummy-011-mithras-heiligtum.jpg"
         },
         {
             "id": "dummy-012-burg-montclair",
@@ -346,7 +346,7 @@
             "maps_link": null,
             "denkmalschutzstatus": null,
             "literatur": [],
-            "thumbnail": "/images/dummy-012-burg-montclair.jpg"
+            "thumbnail": "images/dummy-012-burg-montclair.jpg"
         },
         {
             "id": "dummy-013-abtei-tholey",
@@ -365,7 +365,7 @@
             "maps_link": null,
             "denkmalschutzstatus": null,
             "literatur": [],
-            "thumbnail": "/images/dummy-013-abtei-tholey.jpg"
+            "thumbnail": "images/dummy-013-abtei-tholey.jpg"
         },
         {
             "id": "dummy-014-voelklinger-huette",
@@ -384,7 +384,7 @@
             "maps_link": null,
             "denkmalschutzstatus": null,
             "literatur": [],
-            "thumbnail": "/images/dummy-014-voelklinger-huette.jpg"
+            "thumbnail": "images/dummy-014-voelklinger-huette.jpg"
         }
     ]
 }
